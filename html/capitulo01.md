@@ -8,7 +8,7 @@
 
 - **CSS:** sigla para Cascading Style Sheets. É uma linguagem de folhas de estilo, sendo responsável por definir como os elementos de conteúdo serão mostrados.
 
-- **JavaScript:** é uma linguagem de programação. Ele é o responsável por tornar os conteúdos da página dinâmicos.
+- **JavaScript:** é uma linguagem de programação. Ele é o responsável por tornar a página dinâmica e interativa.
 
 ---
 
@@ -35,13 +35,23 @@ comum.
 
 > 5. Qual é o caminho percorrido por uma requisição HTTP a uma página de hipertexto estática?
 
+- O usuário informa uma URL na barra de endereços do navegador.
+- O navegador consulta um servidor DNS e obtém o endereço IP do domínio digitado.
+- Uma requisição HTTP é feita ao servidor web correspondente ao IP.
+- O servidor responde com os arquivos necessários para a renderização da página.
 
 ---
 
 > 6. Qual é o caminho percorrido por uma requisição HTTP a uma página de hipertexto dinâmica?
 
+- O usuário informa uma URL na barra de endereços do navegador.
+- O navegador consulta um servidor DNS e obtém o endereço IP do domínio digitado.
+- Uma requisição HTTP é feita ao servidor web correspondente ao IP.
+- O servidor responde com os dados necessários para a renderização da página, como dados armazenados em um banco de dados por exemplo.
+- O servidor responde com os arquivos necessários para a renderização da página.
 
 ---
 
 > 7. Quais as vantagens da atualização parcial de conteúdo em segundo plano em uma página de hipertexto usando Javascript? 
 
+Ao se atualizar um conteúdo parcialmente, permitimos a modeficação de partes da página sem a necessidade de requisitar toda a página novamente. Recarregar toda a página novamente é algo computacionalmente custoso, e milhares de usuários fazendo isso ao mesmo tempo sobrecarregaria o servidor.
