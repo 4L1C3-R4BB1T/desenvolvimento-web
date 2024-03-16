@@ -32,7 +32,7 @@ h3 {
 
 ---
 
-> 4. Suponha que em um site você queira enfatizar determinadas palavras ou frases aplicando um estilo de fonte em negrito. Crie um seletor CSS que aplique o estilo desejado a um elemento <span>``` da classe destaque.
+> 4. Suponha que em um site você queira enfatizar determinadas palavras ou frases aplicando um estilo de fonte em negrito. Crie um seletor CSS que aplique o estilo desejado a um elemento ```<span>``` da classe destaque.
 
 ```css
 span.destaque {
