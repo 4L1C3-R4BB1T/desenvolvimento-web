@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 13</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+
+        .col {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid blue;
+        }
+
+        .col:nth-child(2) {
+            flex-grow: 3;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="col">Coluna 1</div>
+        <div class="col">Coluna 2</div>
+        <div class="col">Coluna 3</div>
+    </div>
+
+</body>
+</html>
