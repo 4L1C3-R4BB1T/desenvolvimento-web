@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 18</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            height: 100vh;
+        }
+
+        .widgets {
+            flex: 1;
+            padding: 2em;
+            background-color: #e0e0e0;
+        }
+
+        .widgets h2 {
+            text-align: center;
+            margin-bottom: 1em;
+        }
+
+        .widgets ul {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .widgets li {
+            padding: 1em 0;
+        }        
+
+        .content {
+            flex: 9;
+            padding: 2em 4em;
+            background-color: #f0f0f0;
+        }
+
+        .content h1 {
+            margin-bottom: 1em;
+        }
+
+        .content p {
+            margin-bottom: 1em;
+            line-height: 2;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="widgets">
+            <h2>Widgets</h2>
+            <ul>
+                <li>Widget 1</li>
+                <li>Widget 2</li>
+                <li>Widget 3</li>
+                <li>Widget 4</li>
+                <li>Widget 5</li>
+                <li>Widget 6</li>
+            </ul>
+        </div>
+        <div class="content">
+            <h1>Título</h1>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati nihil quam 
+                reprehenderit ab ullam corrupti voluptas sapiente eligendi, amet molestiae optio 
+                illo fugiat tempora laudantium expedita sunt possimus illum ipsam, suscipit, 
+                officia dolor quae! Eveniet et vitae iste sequi ipsa quaerat ut placeat beatae 
+                expedita corporis similique, architecto explicabo quo.
+            </p>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati nihil quam
+                reprehenderit ab ullam corrupti voluptas sapiente eligendi, amet molestiae optio
+                illo fugiat tempora laudantium expedita sunt possimus illum ipsam, suscipit,
+                officia dolor quae! Eveniet et vitae iste sequi ipsa quaerat ut placeat beatae
+                expedita corporis similique, architecto explicabo quo.
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>

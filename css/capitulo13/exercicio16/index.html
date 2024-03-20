@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 16</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            padding: 5em;
+        }
+
+        form {
+            width: 500px;
+            padding: 3.5em;
+            border-radius: 15px;
+            box-shadow: 5px 5px 10px gray;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5em;
+        }
+
+        form div {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5em;
+        }
+
+        form input {
+            height: 35px;
+            width: 100%;
+            border-radius: 5px;
+            border: none;
+            box-shadow: 5px 5px 10px gray;
+            outline: none;
+            padding: 10px 15px;
+        }
+
+        form .enviar {
+            display: flex;
+            align-items: end;
+        }
+
+        form .enviar button {
+            width: 150px;
+            padding: 0.6em;
+            font-size: 1em;
+            border-radius: 5px;
+            background-color: rgb(77, 234, 85);
+            outline: none;
+            border: none;
+            box-shadow: 5px 5px 10px gray;
+            cursor: pointer;
+            margin-top: 1em;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <form>
+            <h1>Formulário</h1>
+            <hr>
+            <div>
+                <label for="usuario">Usuário</label>
+                <input type="text" name="usuario" id="usuario">
+            </div>
+            <div>
+                <label for="email">E-mail</label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div>
+                <label for="senha">Senha</label>
+                <input type="password" name="senha" id="senha">
+            </div>
+            <div class="enviar">
+                <button type="submit">Enviar</button>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

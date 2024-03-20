@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 15</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            padding: 1em;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            gap: 2em;
+        }
+
+        .card {
+            height: 370px;
+            width: 300px;
+            border-radius: 15px;
+            box-shadow: 5px 5px 10px gray;
+        }
+
+        .card .imagem {
+            width: 100%;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+        }
+
+        .card .header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 0.9em;
+            gap: 1.4em;
+        }
+
+        .card .header h1 {
+            font-size: 1.6em;
+        }
+
+        .card .header img {
+            height: 35px;
+        }
+
+        .card .header img:hover {
+            opacity: 0.5;
+        }
+
+        .card .sobre {
+            padding: 1em 1.5em;
+            font-size: 0.9em;
+            text-align: justify;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="card">
+            <img class="imagem" src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn" alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo! 
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho. 
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida. 
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+        <div class="card">
+            <img class="imagem"
+                src="https://imgs.search.brave.com/jEOvyqLsSsRzU4Cz_2sWmy6hRWUAsmI0ootsAU8AHsg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXNwb3QuY29t/L2EvdXBsb2Fkcy9z/Y2FsZV9zdXBlci8x/NjMyLzE2MzIwNjYw/LzQyNzU3NTktc3Rl/YW1fY292ZXIuanBn"
+                alt="Stardew Valley">
+            <div class="header">
+                <h1>Stardew Valley</h1>
+                <a href="https://store.steampowered.com/app/413150/Stardew_Valley">
+                    <img src="steam.png" alt="Steam">
+                </a>
+            </div>
+            <div class="sobre">
+                Stardew Valley é um RPG sem fim da vida no campo!
+                Você herdou a antiga fazenda de seu avô no Vale do Orvalho.
+                Equipado com ferramentas de segunda mão e algumas moedas, você irá começar sua nova vida.
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
