@@ -1,6 +1,6 @@
 # 📚 Exercícios
 
-Resolução dos exercícios da apostila sobre HTML e CSS.
+Resolução dos exercícios da apostila sobre HTML e CSS e do livro Python Essencial.
 
 ---
 
@@ -22,3 +22,9 @@ Resolução dos exercícios da apostila sobre HTML e CSS.
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 11](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/css/capitulo11)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 12](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/css/capitulo12)   
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 13](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/css/capitulo13)      
+
+#### 🟡 Python  
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 1](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo01)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 2](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo02)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 3](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo03)  
