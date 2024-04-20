@@ -1,5 +1,5 @@
-numero_1 = int(input("Número 1: "))
-numero_2 = int(input("Número 2: "))
+numero_1 = float(input("Número 1: "))
+numero_2 = float(input("Número 2: "))
 
 soma = numero_1 + numero_2
 subtracao = numero_1 - numero_2

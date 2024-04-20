@@ -19,3 +19,23 @@
 --- 
 
 > 5. Crie um programa que peça ao usuário para digitar três números e imprima a soma do dobro de cada um deles.
+
+---
+
+> 6. Crie um programa que peça ao usuário para digitar um número. Em seguida, o programa deve calcular e mostrar a raiz quadrada desse número.
+
+---
+
+> 7. Crie um programa que peça ao usuário para digitar um número inteiro. Em seguida, o programa deve calcular e mostrar o valor dos inteiros anterior e posterior a esse número.
+
+---
+
+> 8. Crie um programa que peça ao usuário para digitar um ângulo entre 0 e 360 graus. Em seguida, o programa deve calcular e mostrar o seno, cosseno e tangente desse número.
+
+---
+
+> 9. Crie um programa que peça ao usuário para digitar dois números quaisquer. Em seguida, o programa deve calcular e mostrar a potência do primeiro número pelo segundo.
+
+---
+
+> 10. Crie um programa que peça ao usuário para digitar três números (A, B e C). Em seguida, o programa deve calcular e mostrar os valores das raízes da seguinte equação, usando a fórmula de Bhaskara: ```Ax² + Bx + C = 0```
