@@ -39,3 +39,43 @@
 ---
 
 > 10. Crie um programa que peça ao usuário para digitar três números (A, B e C). Em seguida, o programa deve calcular e mostrar os valores das raízes da seguinte equação, usando a fórmula de Bhaskara: ```Ax² + Bx + C = 0```
+
+---
+
+> 11. Crie um programa que peça ao usuário para digitar o raio de um círculo. Em seguida, o programa deve calcular e mostrar a área e o comprimento do círculo.
+
+---
+
+> 12. Crie um programa que peça ao usuário para digitar as dimensões de um retângulo (largura e altura). Em seguida, o programa deve calcular e mostrar a área e o perímetro desse retângulo.
+
+---
+
+> 13. Crie um programa que peça ao usuário para digitar a base e a altura de um triângulo. Em seguida, o programa deve calcular e mostrar a área desse triângulo.
+
+---
+
+> 14. Crie um programa que peça ao usuário para digitar o nome, o preço de custo, o preço de venda e a quantidade em estoque de determinado produto. Em seguida, o programa deve calcular e mostrar o lucro que esse produto pode gerar se todo o estoque for vendido.
+
+---
+
+> 15. Crie um programa que peça ao usuário para digitar o valor total de um venda, o percentual de desconto aplicado e o percentual de imposto cobrado. Ao fim, o programa deve mostrar o preço final da mercadoria, sendo que o imposto é cobrado sobre o valor com desconto.
+
+---
+
+> 16. Crie um programa que peça ao usuário para digitar a massa e a aceleração de um objeto. Em seguida, o programa deve calcular e mostrar a força resultante.
+
+---
+
+> 17. Crie um programa que peça ao usuário para digitar a velocidade inicial, a velocidade final e o tempo de transição de uma velocidade para a outra. Em seguida, o programa deve calcular e mostrar a aceleração.
+
+---
+
+> 18. Crie um programa que peça ao usuário para digitar o valor da medida de um ângulo em radianos. Em seguida, o programa deve calcular e mostrar o valor desse ângulo em graus.
+
+---
+
+> 19. Crie um programa que peça ao usuário para digitar o comprimento de dois lados de um triângulo retângulo. Em seguida, o programa deve calcular e mostrar o comprimento da hipotenusa.
+
+---
+
+> 20. Crie um programa que peça ao usuário para digitar a distância percorrida por um objeto e o tempo gasto no trajeto. Em seguida, o programa deve calcular e mostrar a velocidade média do objeto.
