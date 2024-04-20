@@ -79,3 +79,43 @@
 ---
 
 > 20. Crie um programa que peça ao usuário para digitar a distância percorrida por um objeto e o tempo gasto no trajeto. Em seguida, o programa deve calcular e mostrar a velocidade média do objeto.
+
+---
+
+> 21. Crie um programa que peça ao usuário para digitar a distância percorrida, o tempo gasto e a aceleração de um objeto. Em seguida, o programa deve calcular e mostrar a velocidade inicial e final.
+
+---
+
+> 22. Crie um programa que calcule e mostre o perímetro de um círculo dado o seu raio como entrada.
+
+---
+
+> 23. Crie um programa que calcule e mostre o volume de uma esfera dado o seu raio como entrada.
+
+---
+
+> 24. Crie um programa que calcule e mostre a área de um triângulo retângulo dadas as medidas dos seus catetos como entrada.
+
+---
+
+> 25. Crie um programa que leia o nome, o salário e o valor do imposto de uma pessoa como entrada e imprima, ao fim, uma saída no seguinte formato: "Fulano tem um salário líquido de R$ 1.800,00.". Observe a formatação do salário.
+
+---
+
+> 26. Crie um programa que peça ao usuário para digitar a altitude inicial de um objeto em queda livre a partir do repouso. Em seguida, o programa deve calcular e mostrar o tempo que o objeto leva para atingir o solo, desconsiderando a resistência do ar.
+
+---
+
+> 27. Crie um programa que peça ao usuário para digitar o valor inicial de um investimento, a taxa de juros mensal e o número de meses que o valor ficou investido. Em seguida, o programa deve calcular e mostrar o valor final do investimento, considerando o uso de juros compostos.
+
+---
+
+> 28. Crie um programa que tenha uma lista com os nomes de 5 membros da sua família.
+
+---
+
+> 29. Crie um programa que tenha um dicionário com os nomes, idades e cor dos olhos de 5 membros da sua família. Cada item do dicionário deve ter o nome da pessoa como chave e uma tupla associada contendo a idade e a cor dos olhos.
+
+---
+
+> 30. Crie um programa que tenha dois conjuntos de 5 números quaisquer e combine-os usando as operações de união, interseção e diferença, apresentando os resultados de cada operação. 
