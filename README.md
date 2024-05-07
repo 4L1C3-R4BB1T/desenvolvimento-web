@@ -33,3 +33,4 @@ Resolução dos exercícios da apostila sobre HTML e CSS e do livro Python Essen
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 6](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo06)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 7](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo07)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 8](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo08)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔸 [Capítulo 9](https://github.com/4L1C3-R4BB1T/desenvolvimento-web/blob/main/python/capitulo09)  
