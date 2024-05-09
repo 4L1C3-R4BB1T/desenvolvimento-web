@@ -1,4 +1,4 @@
-emocao = input("Emoção: ")
+emocao = input("Emoção: ").lower()
 
 match emocao:
     case "feliz":
