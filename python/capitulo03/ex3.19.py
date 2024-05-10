@@ -6,6 +6,6 @@ for i in range(len(palavra) - 1, -1, -1):
     invertida += palavra[i]
 
 if palavra == invertida:
-    print("É palíndromo")
+    print("A palavra é um palíndromo")
 else:
-    print("Nao é palíndromo")
+    print("A palavra não é um palíndromo")

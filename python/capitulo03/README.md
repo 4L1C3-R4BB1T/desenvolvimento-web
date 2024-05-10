@@ -22,7 +22,7 @@
 
 ---
 
-> 6.C rie um programa que some e mostre todos os números ímpares de 1 a 100.
+> 6. Crie um programa que some e mostre todos os números ímpares de 1 a 100.
 
 --- 
 
