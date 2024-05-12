@@ -19,3 +19,7 @@
 --- 
 
 > 5. Crie um programa que peça ao usuário para inserir um número e calcule o fatorial desse número.
+
+---
+
+> 6. Crie um programa que peça ao usuário para inserir dois números complexos e calcule a soma e o produto desses números.
