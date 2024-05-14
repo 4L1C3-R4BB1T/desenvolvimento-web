@@ -19,3 +19,11 @@
 --- 
 
 > 5. Crie um arquivo vazio qualquer. Agora, na mesma pasta, crie um programa que solicite ao usuário que digite o nome desse arquivo e exclua-o.
+
+---
+
+> 7. Faça um programa que crie um diretório chamado "temp" e, dentro desse diretório, crie também um arquivo chamado "temp.txt".
+
+---
+
+> 9. Crie um programa que utilize o módulo nativo random para gerar um número aleatório entre 1 e 10.
