@@ -19,3 +19,15 @@
 --- 
 
 > 5. Faça um programa que crie um dicionário com nomes e notas de alunos, ambos digitados pelo usuário, usando os nomes dos alunos como chave e as notas como valor. Em seguida, use *Dict Comprehension* para criar um dicionário com os alunos com nota igual ou superior a 7.
+
+---
+
+> 6. Faça um programa que use Dict Comprehension para criar um dicionário com as raízes quadradas dos números de 1 a 10. Utilize os números como chave e as raízes quadradas como valor.
+
+---
+
+> 12. Faça um programa com duas listas contendo 3 valores cada, uma com chaves (string) e outra com os valores (int), e retorne um dicionário criado a partir destas duas listas.
+
+---
+
+> 16. Faça um programa que declare uma lista de 10 números inteiros e inverta a ordem dos elementos de índices pares. Ao fim, mostre a lista resultante.
